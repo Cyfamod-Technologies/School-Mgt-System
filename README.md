@@ -8,4 +8,4 @@ cp .env.example .env
 
 php artisan key:generate
 
-# import sch.sql to your database then connect your env db details to your db
+# import sms.sql to your database then connect your env db details to your db
